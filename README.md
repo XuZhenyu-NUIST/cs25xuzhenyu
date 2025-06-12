@@ -1,1 +1,6 @@
-# cs25xuzhenyu
+GitHub Pages Exercise
+===========
+Involves
+* git
+* SSH
+* GitHub# cs25xuzhenyu
